@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, TouchableOpacity, TextInput } from 'react-nativ
 import AutoCompleteBox from '../components/AutoCompleteBox';
 import AutoCompleteResultList from '../components/AutoCompleteResultList';
 
-const KEY = 'AIzaSyC2QhtACfVZ2cr9HVvxQuzxd3HT36NNK3Q'
+const KEY = 'YOUR API KEY'
 
 class SearchPage extends Component {
   constructor(props) {
